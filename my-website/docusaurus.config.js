@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/222038531/Doc_test',
+           'https://github.com/222038531/Doc_test/tree/main/my-website', 
         },
         blog: {
           showReadingTime: true,
