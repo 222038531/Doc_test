@@ -42,8 +42,8 @@ jobs:
         # uses: sunny0826/auto-docs-action@2c236471917c830f8fdf6485e824147e70377f41
         uses: sunny0826/auto-docs-action@v0.1.7
         with:
-          gh-page: gh-pages
-          docs-path: Doc_test/my-website
+          gh-page: Doc_test
+          docs-path: my-website
                 
 
   # Deployment job
